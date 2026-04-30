@@ -1,6 +1,6 @@
-# 📊 Addressing Table
+#  Addressing Table
 
-## 🌐 IPv4 Addressing (VLSM Design)
+##  IPv4 Addressing (VLSM Design)
 
 | Department     | Network Address | Subnet Mask     | Prefix | Usable Host Range             | Broadcast Address |
 | -------------- | --------------- | --------------- | ------ | ----------------------------- | ----------------- |
@@ -11,9 +11,9 @@
 
 ---
 
-## 🖧 Device Addressing
+##  Device Addressing
 
-### 🔹 Router R1
+###  Router R1
 
 | Interface    | IPv4 Address      | IPv6 Address          | Link-Local |
 | ------------ | ----------------- | --------------------- | ---------- |
@@ -24,7 +24,7 @@
 
 ---
 
-### 🔹 Router Central
+###  Router Central
 
 | Interface | IPv4 Address        | IPv6 Address     | Link-Local |
 | --------- | ------------------- | ---------------- | ---------- |
@@ -33,7 +33,7 @@
 
 ---
 
-### 🔹 Switches (SVI VLAN 1)
+###  Switches (SVI VLAN 1)
 
 | Device     | IPv4 Address  | Subnet | Default Gateway |
 | ---------- | ------------- | ------ | --------------- |
@@ -43,7 +43,7 @@
 
 ---
 
-### 🔹 PCs
+###  PCs
 
 | Department | IPv4 Address  | Subnet | Default Gateway | IPv6 Address          |
 | ---------- | ------------- | ------ | --------------- | --------------------- |
@@ -53,7 +53,7 @@
 
 ---
 
-### 🔹 Servers
+###  Servers
 
 | Device     | IPv4 Address   | Default Gateway | IPv6 Address        |
 | ---------- | -------------- | --------------- | ------------------- |
