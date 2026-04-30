@@ -44,6 +44,7 @@ This lab integrates IPv4 subnetting, IPv6 configuration, device security, and co
   * Domain: `CCNA-lab.com`
   * RSA key: 1024 bits
   * User: `Admin1`
+  * - [R1 Configuration](configs/r1-config.txt)
 
 ###  Switches (S1, S2, S3)
 
