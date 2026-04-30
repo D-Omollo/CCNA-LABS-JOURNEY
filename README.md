@@ -1,10 +1,10 @@
-# 🧪 CCNA Skills Integration Challenge
+# CCNA Skills Integration Challenge
 
-## 📌 Overview
+##  Overview
 
 This lab integrates IPv4 subnetting, IPv6 configuration, device security, and connectivity validation using Cisco Packet Tracer.
 
-## 🎯 Objectives
+##  Objectives
 
 * Design a subnetting scheme from 192.168.0.0/24
 * Configure IPv4 and IPv6 addressing
@@ -14,7 +14,7 @@ This lab integrates IPv4 subnetting, IPv6 configuration, device security, and co
 
 ---
 
-## 🌐 Subnetting Design (VLSM)
+##  Subnetting Design (VLSM)
 
 | Department | Hosts Needed | Network       | Subnet Mask | Range       |
 | ---------- | ------------ | ------------- | ----------- | ----------- |
@@ -25,9 +25,9 @@ This lab integrates IPv4 subnetting, IPv6 configuration, device security, and co
 
 ---
 
-## ⚙️ Key Configurations
+##  Key Configurations
 
-### 🔐 Security Settings
+###  Security Settings
 
 * Enable secret: `Ciscoenpa55`
 * Console password: `Ciscoconpa55`
@@ -36,7 +36,7 @@ This lab integrates IPv4 subnetting, IPv6 configuration, device security, and co
 * Login blocking configured
 * Banner message set
 
-### 🌍 Router (R1)
+###  Router (R1)
 
 * IPv4 + IPv6 configured on all interfaces
 * SSH enabled:
@@ -45,7 +45,7 @@ This lab integrates IPv4 subnetting, IPv6 configuration, device security, and co
   * RSA key: 1024 bits
   * User: `Admin1`
 
-### 🔌 Switches (S1, S2, S3)
+###  Switches (S1, S2, S3)
 
 * VLAN 1 SVI configured
 * Default gateway assigned
@@ -53,7 +53,7 @@ This lab integrates IPv4 subnetting, IPv6 configuration, device security, and co
 
 ---
 
-## 🖥 PC Configuration
+##  PC Configuration
 
 Each PC was configured with:
 
@@ -65,7 +65,7 @@ Each PC was configured with:
 
 ---
 
-## ✅ Connectivity Tests
+## Connectivity Tests
 
 * Successful ping between all devices
 * Access to:
@@ -75,7 +75,7 @@ Each PC was configured with:
 
 ---
 
-## 📘 Key Learnings
+## Key Learnings
 
 * Variable Length Subnet Masking (VLSM)
 * Dual-stack (IPv4 + IPv6) configuration
