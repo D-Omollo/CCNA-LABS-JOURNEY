@@ -85,7 +85,7 @@ Each PC was configured with:
 
 ---
 
-## 📂 Files Included
+##  Files Included
 
 * Packet Tracer file (.pkt)
 * Device configurations
