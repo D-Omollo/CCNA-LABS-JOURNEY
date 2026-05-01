@@ -90,6 +90,5 @@ Each PC was configured with:
 
 ##  Files Included
 
-* Packet Tracer file (.pkt)
 * Device configurations
 * Network topology screenshot
