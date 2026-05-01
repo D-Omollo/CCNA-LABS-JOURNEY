@@ -18,7 +18,7 @@ Rather than just completing labs, I’m using this space to **break down concept
 
 ###  Introduction to Networks
 
-* [Getting started](LEARNING-ABOUT-NETWORKS/building-a-network/)
+* [Getting started](/building-a-network/)
  
 * Covers subnetting, IPv4/IPv6 configuration, and basic network security
 
