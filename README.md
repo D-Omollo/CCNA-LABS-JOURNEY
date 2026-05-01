@@ -18,8 +18,9 @@ Rather than just completing labs, I’m using this space to **break down concept
 
 ###  Introduction to Networks
 
-* [Skills Integration Lab](itn-skills-integration/)
-  Covers subnetting, IPv4/IPv6 configuration, and basic network security
+* [Skills Integration Lab](building-a-network/)
+ 
+* Covers subnetting, IPv4/IPv6 configuration, and basic network security
 
 ###  Enterprise Networking Labs
 
