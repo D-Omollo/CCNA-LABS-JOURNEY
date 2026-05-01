@@ -1,5 +1,7 @@
 # CCNA Skills Integration Challenge
 
+The original Packet Tracer activity file is the property of Cisco Networking Academy and is not included here. This documentation shows my complete configuration and verification.
+
 ##  Overview
 
 This lab integrates IPv4 subnetting, IPv6 configuration, device security, and connectivity validation using Cisco Packet Tracer.
