@@ -1,4 +1,4 @@
-# 🌐My Network Learning Journey
+# My Network Learning Journey
 
 This repository documents my hands-on journey learning computer networking, primarily through Cisco CCNA labs and simulations.
 
